@@ -1,0 +1,25 @@
+Station_A,Station_B,Distance_km,Line
+Hyde Park Corner,Green Park,0.8,Piccadilly
+Green Park,Piccadilly Circus,0.6,Piccadilly
+Piccadilly Circus,Leicester Square,0.3,Piccadilly
+Leicester Square,Covent Garden,0.4,Piccadilly
+Leicester Square,Tottenham Court Road,0.4,Northern
+Leicester Square,Embankment,0.5,Northern
+Covent Garden,Holborn,0.5,Piccadilly
+Holborn,Tottenham Court Road,0.6,Central
+Holborn,Chancery Lane,0.4,Central
+Bond Street,Oxford Circus,0.4,Central
+Oxford Circus,Tottenham Court Road,0.5,Central
+Tottenham Court Road,Goodge Street,0.3,Northern
+Chancery Lane,Bank,0.7,Central
+Bank,Liverpool Street,0.5,Central
+Liverpool Street,Moorgate,0.5,Circle
+Liverpool Street,Tower Hill,1.1,Circle
+Warren Street,Goodge Street,0.4,Northern
+Embankment,Waterloo,0.6,Northern
+Waterloo,London Bridge,1.0,Northern
+London Bridge,Borough,0.4,Northern
+Paddington,Edgware Road,0.8,Circle
+Edgware Road,Baker Street,0.7,Circle
+Baker Street,King's Cross,1.2,Circle
+King's Cross,Moorgate,0.9,Circle
